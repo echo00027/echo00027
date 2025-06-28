@@ -27,7 +27,7 @@
     <h4> ✅ Databases: </h4>
     <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" /><br/>
     <h4> ✅ Others: </h4>
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,tailwind,bootstrap" /><br/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,tailwind,bootstrap" />
 </p>
 
 <hr /> 
